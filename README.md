@@ -13,5 +13,4 @@ O usuário também tem a opção de convidar um outro usuário online para uma c
 ###### TESTES
 - [X] Teste de concorrência - o sistema terá múltiplos usuários conectados e interagindo de forma simultânea.
 - [X] Teste de recuperação de falhas - aqui o sistema se mostra à prova de possíveis instabilidades, se recuperando ao seu estado inicial após o disparo de um erro.
-- [X] Teste de ponta a ponta - para mostrar que todas as jogadas que um jogador faz pode ser visto pelos outros.
 - [X] Demonstração de funcionalidades - apresentar os códigos implementados.
